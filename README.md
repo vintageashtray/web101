@@ -1,8 +1,8 @@
 1st GitHub repo
 
  Set up GitHub Copilot
-  Use GitHub's AI pair programmer to autocomplete suggestions as you code.
-  https://github.com/github-copilot/signup
+</br>Use GitHub's AI pair programmer to autocomplete suggestions as you code.
+</br>https://github.com/github-copilot/signup
 
 
  Add collaborators to this repository
