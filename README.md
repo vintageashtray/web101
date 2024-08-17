@@ -30,7 +30,7 @@ Quick setup — if you’ve done this kind of thing before
 </br>git remote add origin https://github.com/vintageashtray/web101.git
 </br>git push -u origin main
 
-</br>
+</br></br>
 …or push an existing repository from the command line
 </br>
 </br>git remote add origin https://github.com/vintageashtray/web101.git
