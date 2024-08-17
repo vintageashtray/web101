@@ -4,12 +4,12 @@
 </br>Use GitHub's AI pair programmer to autocomplete suggestions as you code.
 </br>https://github.com/github-copilot/signup
 
-</br>
+</br></br>
  Add collaborators to this repository
 </br>Search for people using their GitHub username or email address.
 </br>https://github.com/vintageashtray/web101/settings/access
 
-</br>
+</br></br>
 Quick setup — if you’ve done this kind of thing before
 </br>https://github.com/vintageashtray/web101.git
 </br>Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore. 
@@ -19,7 +19,7 @@ Quick setup — if you’ve done this kind of thing before
 </br>https://github.com/vintageashtray/web101/new/main?filename=LICENSE.md
 </br>https://github.com/vintageashtray/web101/new/main?filename=.gitignore
 
-</br>
+</br></br>
 …or create a new repository on the command line
 </br>
 </br>echo "# web101" >> README.md
